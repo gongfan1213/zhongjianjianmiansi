@@ -1,0 +1,11 @@
+课程中提到的一些项目链接：
+
+大模型应用开发实战营项目： https://github.com/DjangoPeng/openai-quickstart
+
+大模型微调训练营项目： https://github.com/DjangoPeng/LLM-quickstart
+
+企业级 Agents 实战营相关项目：
+
+ https://github.com/DjangoPeng/agent-hub
+
+ https://github.com/DjangoPeng/GitHubSentinel ）
