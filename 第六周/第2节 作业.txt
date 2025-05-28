@@ -1,0 +1,3 @@
+1、迭代 ConversationAgent System Prompt，使其能够稳定的按要求返回教学指导：
+①3 个用于推进对话的英语例句；
+②格式化（Format）ChatBot 回复内容，包括教学点评、例句和 Bot 角色回复。

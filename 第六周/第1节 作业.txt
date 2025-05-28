@@ -1,0 +1,2 @@
+1、扩展本节课学习的 Reflection Agent，使其能够完成更通用的生成任务，包括但不限于代码、报告等。
+2、（可选）使用扩展后的 Reflection Agent 生成代码，实现在 GitHubSentinel 上新增一个信息渠道。
