@@ -1,0 +1,4 @@
+1、参考 《GitHubSentinel 高级功能与生产级发布》 章节，在 Language Mentor v0.4 基础上实现：
+①新增单元测试（覆盖率 80%）与自动化测试脚本；
+②新增 Dockerfile，实现镜像构建与容器化部署；
+2、（可选）将 LanguageMentor 发布到 HuggingFace Space，便于学术交流和分享。
