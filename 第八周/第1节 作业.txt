@@ -1,0 +1,3 @@
+下载微软官方发布的 PPT 母版文件 LGBTQIA Pride 1、Month presentation. pptx （在附件中下载，或者访问网址  https://create.microsoft.com/en-us/powerpoint-templates
+下载） ，学习和掌握 PPT 母版相关概念。
+使用 LGBTQIA Pride Month presentation. ppt2、x 中的布局替换 ChatPPT v0.1 的布局名称，并生成 PPT 文件，查看内容与布局是否匹配。

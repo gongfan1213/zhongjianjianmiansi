@@ -1,0 +1,9 @@
+1.使用 python-pptx 自动生成 PowerPoint 文件，内容包括文本、图片、表格和图表 。
+
+2.使用 Gradio 搭建一个 ChatBot 作为图形化用户界面（GUI），支持将用户输入转换为 ChatPPT PowerPoint 标准输入格式（Markdown），并最终生成 PowerPoint 文件。
+（1）ChatBot System Prompt 可使用 ChatPPT v0.2 prompts/formatter.txt 文件，鼓励自行创作和优化。
+（2）【可选】将 ChatBot 生成 Markdown 和 ChatPPT v0.2 的主流程整合，支持聊天输入，自动生成 PowerPoint 文件作为输出。
+3.下载微软官方发布的 PPT 母版文件 LGBTQIA Pride Month presentation. pptx （在附件中下载，或者访问网址  https://create.microsoft.com/en-us/powerpoint-templates
+下载） ，学习和掌握 PPT 母版相关概念。
+
+4.使用 LGBTQIA Pride Month presentation. pptx 中的布局替换 ChatPPT v0.1 的布局名称，并生成 PPT 文件，查看内容与布局是否匹配。
