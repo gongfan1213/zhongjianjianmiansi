@@ -1,0 +1,6 @@
+视频右下角资料
+1、《极客时间 AIGC 知识库》 https://gp477l8icq.feishu.cn/wiki/JUXnwzSuviL5E9kh6jUc8FRinHe
+2、LLM 原理到实现 ChatPDF 配套资料链接:  https://pan.baidu.com/s/1LvemNMDkWsrxAzyy3GItxQ?pwd=zpp5 提取码: zpp5
+代码链接：  https://github.com/cystanford/aigc_LLM_engineering
+3、QCon 大会 AIGC 主题演讲 PPT 合集： https://pan.baidu.com/s/1ju4ajoKa5JVL_t-VpYaPPw?pwd=y5n8#list/path=%2F
+提取码：y5n8
