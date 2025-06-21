@@ -1,0 +1,17 @@
+1. 安装 Python
+
+课程采用 Python 3.10 版本，请大家提前安装好，安装文件见附件。
+
+2. 替换 pip 源
+
+将默认的 pip 源替换为国内的镜像源，可以提升相关文件的安装速度。
+
+替换方法： https://developer.aliyun.com/article/652884
+
+3. 开发环境
+
+授课过程中老师会使用 JupyterLab，安装好 Python 后，通过 pip install jupyterlab 命令安装即可，启动方法，运行 jupyter-lab 命令。具体文档可以参考  https://jupyter.org/install
+
+另外，课程还需要大家提前下载安装好 Visual Studio Code，下载地址： https://code.visualstudio.com/
+
+备选开发工具：PyCharm 下载地址  https://www.jetbrains.com/pycharm/download/ （页面下方的 Community Edition 社区版本可以免费下载使用）

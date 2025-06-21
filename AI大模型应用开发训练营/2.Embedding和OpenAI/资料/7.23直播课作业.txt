@@ -1,0 +1,5 @@
+请用自己的数据和 prompt 来测试下方链接中的代码：
+
+ https://github.com/DjangoPeng/openai-quickstart/blob/main/openai_api/models.ipynb
+
+ https://github.com/DjangoPeng/openai-quickstart/blob/main/openai_api/count_tokens_with_tiktoken.ipynb
