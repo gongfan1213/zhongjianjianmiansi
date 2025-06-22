@@ -1,0 +1,5 @@
+在 openai-translator gradio 图形化界面基础上，支持风格化翻译，如：小说、新闻稿、作家风格等。
+
+扩展销售机器人（sales_chatbot）项目，应用于不同的销售场景，如：电器、家装、教育等。
+
+实现 LangChain 版本的 AutoGPT 项目的图形化界面。
