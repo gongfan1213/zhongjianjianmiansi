@@ -1,7 +1,8 @@
-| 名称 | 功能 | 地址 |
-|------|------|------|
-| [CrewAI](https://github.com/joaomdmoura/crewAI) | 多Agent对话框架，支持角色扮演 | ⭐⭐⭐⭐ |
-| [LangChain](https://github.com/langchain-ai/langchain) | 构建基于大模型的智能体系统 | ⭐⭐⭐⭐⭐ |
-| [OpenAgents](https://github.com/openagents/openagents) | 支持浏览器控制和多角色互动 | ⭐⭐⭐ |
-| [AutoGen](https://github.com/microsoft/autogen) | 微软出品的多Agent协作框架 | ⭐⭐⭐⭐ |
-| [ChatGPT WeChat MiniApp](https://github.com/djun/wechat-chatgpt) | 微信小程序接入 ChatGPT 的示例 | ⭐⭐⭐⭐ |
+# 课程对比表
+|课程|企业级 Agents 开发实战营|大模型应用开发实战营|
+| ---- | ---- | ---- |
+|课程特点|专注生产实战，覆盖从立项到部署的完整开发流程|侧重基础知识传授，手把手教学提示工程、基于 GPT 的开发和 LangChain 框架，涵盖硬件、理论和开发实践|
+| |通过 3 个不同工作场景实战演练，提供扩展空间，方便学员按需发展|实战项目重在引导入门，适配 OpenAI 和 LangChain 最新技术与框架|
+|面向群体|生产级应用开发者和项目管理人员|大模型开发爱好者和初学者|
+|教学方式|通过端到端企业级项目研发，全面提升实战能力|理论剖析与实战操作并重，案例驱动技能学习|
+|实战项目对比|GitHub Sentinel：项目管理和更新推送工具，提升团队协作效率与项目管理便捷性，可扩展为信息流订阅和总结服务 Agent<br><br>LanguageMentor：在线英语私教，提供高效语言学习体验，可扩展为 100 + 语种语言教练 Agent<br><br>ChatPPT：支持多模态输入的 PPT 生成 Agent，可扩展为企业自动化流程提效 Agent|深度剖析和实现热门大模型项目（OpenAI - Translator、RAG、AutoGPT 等），通过多个落地案例助力熟练上手大模型应用开发| 
